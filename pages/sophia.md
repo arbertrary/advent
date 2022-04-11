@@ -1,4 +1,4 @@
 ---
 title: Sophia
-subtitle: Liebe Sophia, ich wünsche dir einen frohen Advent!
+description: Liebe Sophia, ich wünsche dir einen frohen Advent!
 ---

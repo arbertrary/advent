@@ -1,6 +1,6 @@
 ---
 title: Sabine
-subtitle: Liebe Sabine, ich wünsche dir einen frohen Advent!
+description: Liebe Sabine, ich wünsche dir einen frohen Advent!
 ---
 
 <div class="calendar">

@@ -1,4 +1,4 @@
 ---
 title: Iris
-subtitle: Liebe Iris, ich wünsche dir einen frohen Advent!
+description: Liebe Iris, ich wünsche dir einen frohen Advent!
 ---

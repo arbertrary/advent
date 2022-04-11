@@ -1,4 +1,4 @@
 ---
 title: Hermann
-subtitle: Lieber Hermann, ich wünsche dir einen frohen Advent!
+description: Lieber Hermann, ich wünsche dir einen frohen Advent!
 ---
