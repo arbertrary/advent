@@ -60,18 +60,21 @@ body {
 
     div.calendar {
         text-align: center;
-        display: grid;
-        align-items: center;
+        // display: flex;
+        // justify-content: center;
+        // align-content: center;
+        // align-items: center;
         // grid-template-columns: repeat(4, 1fr);
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        // grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         // grid-template-rows: repeat(6, 1fr);
-        grid-template-rows: repeat(4, 300px);
-        grid-gap: 1rem;
-        grid-auto-flow: dense;
+        // grid-template-rows: repeat(4, 300px);
+        // grid-gap: 1rem;
+        // grid-auto-flow: column;
     }
 
     .day {
         // background-color: #;
+        margin: 5%;
         cursor: pointer;
         border-radius: 5%;
         border-color: black;
@@ -81,6 +84,7 @@ body {
         min-width: 200px;
         min-height: 200px;
         width: fit-content;
+        font-size: xxx-large;
 
         p {
             padding-top: 2%;
