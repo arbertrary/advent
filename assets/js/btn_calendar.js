@@ -8,7 +8,6 @@ for (var day of days) {
 }
 
 function dayPopup(day) {
-  console.log(day);
   var modal = day.nextElementSibling;
   day.onclick = function () {
     console.log("clicked day");
@@ -21,6 +20,14 @@ function dayPopup(day) {
     console.log("clicked close");
     modal.style.display = "none";
   }
+
+  day.addEventListener("keyup", e => {
+    // Escape keycode = 27
+    if (e.key == "Escape" || e.keyCode == 27) {
+      modal.style.display = "none";
+    }
+  });
+
   // When the user clicks anywhere outside of the modal, close it
   modal.onclick = function (event) {
     console.log(modal);
@@ -34,19 +41,14 @@ function legalDay(day) {
   const id = day.id.replace("day", "");
 
   if (today.getDate() > parseInt(id)) {
-    // console.log(today.getDate())
-    // console.log(parseInt(id))
     day.setAttribute("style", "border-color:#1E792C;");
 
-    // day.getElementsByClassName("door-closed")[0].setAttribute("class", "door-open");
   } else if (today.getDate() == parseInt(id)) {
-    // doors = day.getElementsByClassName("door-closed");
 
     day.addEventListener("click", event => {
       day.setAttribute("style", "border-color:#1E792C;");
-      // doors[0].setAttribute("class", "door-open")
     });
-    // console.log(id);
+
   } else {
     day.disabled = true;
   }

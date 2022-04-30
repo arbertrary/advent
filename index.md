@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to test user page](./pages/testfriend.html).
+[Link to test user page](./testfriend).
 
 <!-- 
 There should be whitespace between paragraphs.
