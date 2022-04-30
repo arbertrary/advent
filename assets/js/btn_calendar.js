@@ -22,12 +22,12 @@ function dayPopup(day) {
     modal.style.display = "none";
   }
   // When the user clicks anywhere outside of the modal, close it
-  // day.onclick = function (event) {
-  //   console.log(modal);
-  //   if (event.target !== modal) {
-  //     modal.style.display = "none";
-  //   }
-  // }
+  modal.onclick = function (event) {
+    console.log(modal);
+    if (event.target !== modal.getElementsByClassName("modal-content")[0]) {
+      modal.style.display = "none";
+    }
+  }
 }
 
 function legalDay(day) {
