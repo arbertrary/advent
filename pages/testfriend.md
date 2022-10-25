@@ -7,6 +7,7 @@ day2: '<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube vi
 day3: '<img src="https://i.ytimg.com/vi/dQw4w9WgXcQ/hq720.jpg">'
 day4: '<img src="/advent/assets/img/roll.jpg">'
 day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
+day6: 'Warum sind große Menschen oft ausgeschlafener? <span class="spoiler">Sie sind länger im Bett.</span>'
 ---
 
 <!-- {% include calendar_template.html %} -->
