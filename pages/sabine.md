@@ -5,7 +5,7 @@ description: Liebe Sabine, ich wünsche dir einen frohen Advent!
 day1: PLACEHOLDER FÜR PERSONALISIERTES VIDEO
 day2: '<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>'
 day3: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35xmSciP2D7fkPVQVjYdKe?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day4: '<img src="/advent/assets/img/moth.jpg">'
+day4: '<img src="/advent/assets/img/moth.png">'
 day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 day6: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
 day7: '<img src="/advent/assets/img/centaur.webp">'

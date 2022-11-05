@@ -8,7 +8,7 @@ redirect_from:
 day1: PLACEHOLDER FÜR PERSONALISIERTES VIDEO
 day2: "Person A zu Person B ( Informatiker:in ) : Bring ein Brot mit und wenn sie frische Eier haben bring sechs .... <br> Person B kommt zurück mit sechs Broten, denn sie hatten frische Eier."
 day3: "<a href='https://www.reddit.com/r/TIHI/comments/yckp39/comment/itmt0na/'>Klick! (Reddit Link)</a>"
-day4: '<img src="/advent/assets/img/moth.jpg">'
+day4: '<img src="/advent/assets/img/moth.png">'
 day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 day6: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
 day7: '<a href="https://www.reddit.com/r/interestingasfuck/comments/ybz2g7/this_briefcase_is_secretly_a_gun/itji2j3/">Klick! (Reddit Link)</a>'
