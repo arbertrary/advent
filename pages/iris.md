@@ -2,4 +2,17 @@
 title: Iris
 permalink: /iris
 description: Liebe Iris, ich wünsche dir einen frohen Advent!
+day1: PLACEHOLDER FÜR PERSONALISIERTES VIDEO
+day2: '<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>'
+day3: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+day4: '<img src="/advent/assets/img/moth.jpg">'
+day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+day6: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
+day7: '<img src="/advent/assets/img/centaur.webp">'
+day8: '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
+day9: '<iframe width="560" height="315" src="https://www.youtube.com/embed/CXPAAI3Q9wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+day10: "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen</a>"
+day11: "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber das Restaurant hat keine Atmosphäre."
+day12: '<iframe width="560" height="315" src="https://www.youtube.com/embed/J1A6rwZ6R-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+day13: "<a href='https://www.reddit.com/r/comics/comments/vxr0wr/a_heart_for_a_heart_oc/'>Klick für Emotionen</a>"
 ---
