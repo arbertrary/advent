@@ -26,3 +26,5 @@ day21:
 day22:
 day24:
 ---
+
+{% include btn_calendar_template.html %}
