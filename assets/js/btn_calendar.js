@@ -4,7 +4,7 @@ const today = new Date()
 // When the user clicks the button, open the modal 
 for (var day of days) {
   dayPopup(day);
-  legalDay(day);
+  // legalDay(day);
 }
 
 function dayPopup(day) {
