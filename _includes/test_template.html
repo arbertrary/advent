@@ -1,0 +1,36 @@
+<div class="calendar">
+
+    {% for day in page.days %}
+    {% if forloop.index0 != 23 %}
+    <button class="day" id="day{{ forloop.index0 | plus: 1 }}">{{ forloop.index0 | plus: 1 }}</button>
+    <div id="day{{ forloop.index0 | plus: 1 }}Modal" class="modal">
+        <div class="modal-content">
+            {{ forloop.index0 | plus: 1 }}
+            <span class="close">&times;</span>
+            <br>
+            {{ day }}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if forloop.index0 == 23 %}
+    <br>
+    <button class="day" id="day{{ forloop.index0 | plus: 1 }}" style="min-width:250px;min-height:250px;">{{
+        forloop.index0 | plus: 1 }}</button>
+    <div id="day{{ forloop.index0 | plus: 1 }}Modal" class="modal">
+        <div class="modal-content">
+            {{ forloop.index0 | plus: 1 }}
+            <span class="close">&times;</span>
+            <br>
+            {{ day }}
+        </div>
+    </div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>
+
+<script type="text/javascript"
+    src="{{ '/assets/js/btn_calendar.js?v=' | append: site.github.build_revision | relative_url }}">
+    </script>
