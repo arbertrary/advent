@@ -21,12 +21,12 @@ days:
     - '<img src="https://media.oglaf.com/comic/activitycorner.jpg">'
     - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
-    - '<a href="https://hierkochtalex.de/drei-gaenge-weihnachtsmenue-blog-hierkochtalex">Falls du noch ein Weihnachtsmenü brauchst</a>'
+    - 'Was macht ein Masochist mit einem Holzsplitter im Fuß? <br> Er steht auf Schmerzen.'
     - '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
     - '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Schonmal einen Spaghetttikürbis gegessen?</a>'
     - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     - 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
-    -
+    - PLACEHOLDER FÜR FROHE WEIHNACHTEN VIDEO
 ---
 
 {% include daylist_cal_template.html %}

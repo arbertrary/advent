@@ -26,7 +26,7 @@ days:
   -
   -
   -
-  -
+  - PLACEHOLDER FÜR FROHE WEIHNACHTEN VIDEO
 ---
 
 {% include daylist_cal_template.html %}

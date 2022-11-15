@@ -29,7 +29,7 @@ days:
 	- '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Wie wär's demnächst mal mit einem Spaghettti-Kürbis?</a>'
 	- '<a href="https://www.reddit.com/r/ich_iel/comments/yrn545/ichiel/">Klick für Augenrollen</a>'
 	- '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
-	-
+	- PLACEHOLDER FÜR FROHE WEIHNACHTEN VIDEO
 ---
 
 {% include daylist_cal_template.html %}
