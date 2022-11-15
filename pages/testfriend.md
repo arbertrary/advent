@@ -7,7 +7,7 @@ day2: '<iframe  src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube v
 day3: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 day4: '<img src="/advent/assets/img/moth.png">'
 day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day6: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
+day6: '<a href="https://biancazapatka.com/de/spinat-kartoffel-puffer-mit-kaese/">Noch keine Idee fürs Essen heute?</a>'
 day7: '<img src="/advent/assets/img/centaur.webp">'
 day8: '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
 day9: '<iframe  src="https://www.youtube.com/embed/CXPAAI3Q9wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
@@ -17,12 +17,12 @@ day12: '<iframe  src="https://www.youtube.com/embed/J1A6rwZ6R-k" title="YouTube 
 day13: '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 day14: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 day15: '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
-day16:
-day17:
+day16: 
+day17: '<a href="https://hierkochtalex.de/drei-gaenge-weihnachtsmenue-blog-hierkochtalex">Falls du noch ein Weihnachtsmenü brauchst</a>'
 day18: '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
-day19:
+day19: '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Schonmal einen Spaghetttikürbis gegessen?</a>'
 day20: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day21:
+day21: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
 day22:
 day23:
 day24:
