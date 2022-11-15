@@ -24,10 +24,10 @@ days:
     - '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Schonmal einen Spaghetttikürbis gegessen?</a>'
     - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     - 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
-    -
+    - <iframe src="https://www.youtube.com/embed/E7Vn_pS2G-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     -
     -
 ---
 
-{% include test_template.html %}
+{% include daylist_cal_template.html %}
 

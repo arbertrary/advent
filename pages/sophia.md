@@ -2,30 +2,31 @@
 title: Sophia
 permalink: /sophia
 description: Liebe Sophia, ich wünsche dir einen frohen Advent!
-day1: PLACEHOLDER FÜR PERSONALISIERTES VIDEO
-day2: '<iframe  src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-day3: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day4: '<img src="/advent/assets/img/moth.png">'
-day5: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day6: 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
-day7: '<img src="/advent/assets/img/centaur.webp">'
-day8: '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
-day9: '<iframe  src="https://www.youtube.com/embed/CXPAAI3Q9wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-day10: "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen</a>"
-day11: "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber das Restaurant hat keine Atmosphäre."
-day12: '<iframe  src="https://www.youtube.com/embed/J1A6rwZ6R-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-day13: '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-day14: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day15: '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
-day16:
-day17:
-day18: '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
-day19:
-day20: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-day21:
-day22:
-day23:
-day24:
+days:
+  - PLACEHOLDER FÜR PERSONALISIERTES VIDEO
+  - '<iframe  src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  - '<img src="/advent/assets/img/moth.png">'
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  - 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
+  - '<img src="/advent/assets/img/centaur.webp">'
+  - '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
+  - '<iframe  src="https://www.youtube.com/embed/CXPAAI3Q9wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  - "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen</a>"
+  - "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber das Restaurant hat keine Atmosphäre."
+  - '<iframe  src="https://www.youtube.com/embed/J1A6rwZ6R-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  - '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
+  -
+  -
+  - '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
+  -
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  -
+  -
+  -
+  -
 ---
 
-{% include btn_calendar_template.html %}
+{% include daylist_cal_template.html %}
