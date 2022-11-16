@@ -23,7 +23,7 @@ days:
   - Such mal in der Google Bildersuche nach Prinz Albert
   - '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
   - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-  - '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Wie wär's demnächst mal mit einem Spaghettti-Kürbis?</a>'
+  - '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Schonmal einen Spaghetti-Kürbis gegessen?</a>'
   - '<a href="https://www.reddit.com/r/ich_iel/comments/yrn545/ichiel/">Klick für Augenrollen</a>'
   - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
   - PLACEHOLDER FÜR FROHE WEIHNACHTEN VIDEO
