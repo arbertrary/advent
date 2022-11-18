@@ -3,7 +3,7 @@ title: Anna
 description: Liebe Anna, ich wünsche dir einen frohen Advent!
 permalink: /anna
 days:
-  - PLACEHOLDER FÜR PERSONALISIERTES VIDEO
+  - '<iframe style="border-radius:12px" src="/advent/assets/insta_post.html" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - '<iframe  src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - '<img src="https://media.oglaf.com/comic/jute.jpg">'
   - <iframe src="https://www.youtube.com/embed/E7Vn_pS2G-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

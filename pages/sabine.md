@@ -22,7 +22,7 @@ days:
   - '<blockquote class="twitter-tweet"><p lang="in" dir="ltr">Pinguin PENGuin <a href="https://t.co/tcooG6fm1o">pic.twitter.com/tcooG6fm1o</a></p>&mdash; Titus Blome (@derLampenputzer) <a href="https://twitter.com/derLampenputzer/status/1593297027680583681?ref_src=twsrc%5Etfw">November 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
   - '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
   - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-  -
+  - '<iframe style="border-radius:12px" src="/advent/assets/insta_post.html" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   -
   -
   -
