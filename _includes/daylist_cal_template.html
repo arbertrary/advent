@@ -5,8 +5,8 @@
     <button class="day" id="day{{ forloop.index0 | plus: 1 }}">{{ forloop.index0 | plus: 1 }}</button>
     <div id="day{{ forloop.index0 | plus: 1 }}Modal" class="modal">
         <div class="modal-content">
-            {{ forloop.index0 | plus: 1 }}
             <span class="close">&times;</span>
+            <span class="dayno"><br>{{ forloop.index0 | plus: 1 }}<br></span>
             <br>
             {{ day }}
         </div>
@@ -19,8 +19,9 @@
         forloop.index0 | plus: 1 }}</button>
     <div id="day{{ forloop.index0 | plus: 1 }}Modal" class="modal">
         <div class="modal-content">
-            {{ forloop.index0 | plus: 1 }}
             <span class="close">&times;</span>
+            <span class="dayno"><br>{{ forloop.index0 | plus: 1 }}<br></span>
+
             <br>
             {{ day }}
         </div>
