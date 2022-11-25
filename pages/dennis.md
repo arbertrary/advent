@@ -26,7 +26,7 @@ days:
   -  '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - '<iframe style="border-radius:12px" src="/advent/assets/insta_post.html" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - '<a href="https://www.reddit.com/r/DotA2/comments/wc1knn/my_fancy_of_dota2_heros_if_only_they_were_less/">Keine Ahnung, ob du den Post schon gesehen hattest.</a>'
-  -  '<span style="font-weight:bold;font-size:xxx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
+  -  '<span style="font-weight:bold;font-size:xx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
 ---
 
 {% include daylist_cal_template.html %}

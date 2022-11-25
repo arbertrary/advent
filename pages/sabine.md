@@ -26,7 +26,7 @@ days:
   - 'Was macht ein Masochist mit einem Holzsplitter im Fuß? <br> Er steht auf Schmerzen.'
   - '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - "Geschäftsidee: Ein Maschinengewehr, das gleichzeitig eine Kaffeemaschine ist. Kaffeevollautomatik. Für die Röstungsindustrie"
-  - '<span style="font-weight:bold;font-size:xxx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
+  - '<span style="font-weight:bold;font-size:xx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
 ---
 
 {% include daylist_cal_template.html %}

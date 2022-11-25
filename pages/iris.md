@@ -26,7 +26,7 @@ days:
   - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vkQ5DAB1qQMYO4Mr9zJN6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - "Geschäftsidee: Ein Maschinengewehr, das gleichzeitig eine Kaffeemaschine ist. Kaffeevollautomatik. Für die Röstungsindustrie"
   - "<img src='https://cdn.shopify.com/s/files/1/0029/4561/3881/products/Print_31_1860x.jpg'>"
-  - '<span style="font-weight:bold;font-size:xxx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
+  - '<span style="font-weight:bold;font-size:xx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
 ---
 
 {% include daylist_cal_template.html %}
