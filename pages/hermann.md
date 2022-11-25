@@ -3,7 +3,7 @@ title: Hermann
 description: Hey, ich wünsch dir einen frohen Advent!
 permalink: /hermann
 days:
-  - '<iframe  src="https://www.youtube.com/embed/9VHyC4_tyAU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  - '<iframe src="https://www.youtube.com/embed/9VHyC4_tyAU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - "Person A zu Person B ( Informatiker:in ) : Bring ein Brot mit und wenn sie frische Eier haben bring sechs .... <br> Person B kommt zurück mit sechs Broten, denn sie hatten frische Eier."
   - "<a href='https://www.reddit.com/r/TIHI/comments/yckp39/comment/itmt0na/'>Klick! (Reddit Link)</a>"
   - '<img src="/advent/assets/img/moth.png">'
