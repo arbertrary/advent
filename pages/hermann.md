@@ -26,7 +26,7 @@ days:
   - '<a href="https://www.zuckerjagdwurst.com/de/rezepte/veganer-spaghettikuerbis-al-forno">Schonmal einen Spaghetti-Kürbis gegessen?</a>'
   - '<a href="https://www.reddit.com/r/ich_iel/comments/yrn545/ichiel/">Klick für Augenrollen</a>'
   - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
-  - PLACEHOLDER FÜR FROHE WEIHNACHTEN VIDEO
+  - '<span style="font-weight:bold;font-size:xxx-large">Frohe Weihnachten! Ich hoffe du hattest bisschen Spaß mit dem Adventskalender!</span><br><img src="https://api.time.com/wp-content/uploads/2020/12/lord-of-the-rings-holiday-movies.jpg?quality=85&w=800">'
 redirect_from:
   - /pages/martin 
   - /martin
