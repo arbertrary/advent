@@ -1,6 +1,6 @@
 ---
 title: Hermann
-description: Lieber Hermann, ich wünsche dir einen frohen Advent!
+description: Hey, ich wünsch dir einen frohen Advent!
 permalink: /hermann
 days:
   - '<iframe  src="https://www.youtube.com/embed/9VHyC4_tyAU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'

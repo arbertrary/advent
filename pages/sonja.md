@@ -5,8 +5,9 @@ permalink: /sonja
 days:
     - "<img src='https://i.redd.it/yg4g4mbwhe0a1.jpg'>"
     - '<a href="https://biancazapatka.com/de/spinat-kartoffel-puffer-mit-kaese/">Noch keine Idee fürs Essen heute?</a>'
-    - '<img src="/advent/assets/img/centaur.webp">'
+    - '<img src="/advent/assets/img/moth.png">'
     - '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
+    - '<img src="/advent/assets/img/centaur.webp">'
     - '<iframe  src="https://www.youtube.com/embed/CXPAAI3Q9wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     - "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen (durchklicken, ist mehr als ein Bild)</a>"
     - "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber das Restaurant hat keine Atmosphäre."
