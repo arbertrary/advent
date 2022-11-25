@@ -1,11 +1,9 @@
 ---
-title: Test Friend
-description: Lieber Test Friend, ich wünsche dir einen frohen Advent!
-permalink: /testfriend
+title: Sonja
+description: Liebe Sonja, ich wünsche dir einen frohen Advent!
+permalink: /sonja
 days:
-    - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    - '<img src="/advent/assets/img/moth.png">'
-    - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JjPEOCqAsLBZ9VJYfhxlX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+    - "<img src='https://i.redd.it/yg4g4mbwhe0a1.jpg'>"
     - '<a href="https://biancazapatka.com/de/spinat-kartoffel-puffer-mit-kaese/">Noch keine Idee fürs Essen heute?</a>'
     - '<img src="/advent/assets/img/centaur.webp">'
     - '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
@@ -13,6 +11,7 @@ days:
     - "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen (durchklicken, ist mehr als ein Bild)</a>"
     - "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber das Restaurant hat keine Atmosphäre."
     - '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+    - "<img src='https://cdn.shopify.com/s/files/1/0029/4561/3881/products/Print_31_1860x.jpg'>"
     - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
     - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
     - '<iframe  src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
