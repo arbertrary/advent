@@ -3,7 +3,7 @@ title: Sabine
 permalink: /sabine
 description: Liebe Sabine, ich wünsche dir einen frohen Advent!
 days:
-  - '<iframe  src="https://www.youtube.com/embed/nDe4lhJEAc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>'
+  - '<iframe src="https://www.youtube.com/embed/nDe4lhJEAc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>'
   - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35xmSciP2D7fkPVQVjYdKe?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - '<img src="/advent/assets/img/moth.png">'
   - '<a href="https://biancazapatka.com/de/spinat-kartoffel-puffer-mit-kaese/">Noch keine Idee fürs Essen heute?</a>' 
