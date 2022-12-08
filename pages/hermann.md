@@ -12,7 +12,7 @@ days:
   - '<a href="https://www.reddit.com/r/interestingasfuck/comments/ybz2g7/this_briefcase_is_secretly_a_gun/itji2j3/">Klick! (Reddit Link)</a>'
   - '<iframe  src="https://www.youtube.com/embed/yS4jSxTlM_4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - "<a href='https://www.reddit.com/r/comics/comments/w9vv4o/on_a_mission_oc/'>Klick für Emotionen</a>"
-  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0F1uwpAhOfcK0AHkQODdhM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6dOUJwf0slxOlQy0PkIX0u?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   -  '<a href="https://www.reddit.com/r/Catswhoyell/comments/b7p1sq/rububububu/">Klick für Cutie</a>'
   - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7v1XOSPvXC9Tir8xWAmHGw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - "Hast du von dem Restaurant auf dem Mond gehört? <br> Das Essen soll richtig gut sein aber hat keine Atmosphäre."

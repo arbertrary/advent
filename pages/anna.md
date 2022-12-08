@@ -20,7 +20,7 @@ days:
   - 'Warum sind große Menschen oft ausgeschlafener? <br> Sie sind länger im Bett.'
   - '<iframe  src="https://www.youtube.com/embed/tH_dfASP0UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - '<img src="https://media.oglaf.com/comic/activitycorner.jpg">'
-  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ubvP9oKmxLUVq506fgLhk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+  - '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6dOUJwf0slxOlQy0PkIX0u?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
   - '<img src="https://i.redd.it/206u7feyl8r71.jpg">'
   - 'Was macht ein Masochist mit einem Holzsplitter im Fuß? <br> Er steht auf Schmerzen.'
   - '<img src="https://i.redd.it/hz2zn9yc9yl71.jpg">'
